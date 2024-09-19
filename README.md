@@ -5,7 +5,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>XPLUSE - CCTV Camera Manufacturing and Wholesale</title>
+    <title>XLPLUSE- CCTV Camera Manufacturing and Wholesale</title>
     <style>
         body {
             font-family: 'Arial', sans-serif;
@@ -74,7 +74,7 @@
 <body>
 
 <header>
-    <h1>XPLUSE</h1>
+    <h1>XLPLUSE</h1>
     <p>Leading Manufacturer and Wholesaler of CCTV Cameras</p>
 </header>
 
@@ -85,8 +85,8 @@
 </nav>
 
 <section id="about">
-    <h2>About XPLUSE</h2>
-    <p>XPLUSE एक अग्रणी कंपनी है जो उच्च गुणवत्ता वाले CCTV कैमरों का निर्माण और होलसेलिंग करती है। 
+    <h2>About XLPLUSE</h2>
+    <p>XLPLUSE एक अग्रणी कंपनी है जो उच्च गुणवत्ता वाले CCTV कैमरों का निर्माण और होलसेलिंग करती है। 
        हम आधुनिक सुरक्षा समाधानों के साथ विश्वसनीयता और प्रदर्शन का मेल करते हैं, 
        जिससे आपके सुरक्षा उपायों में नए आयाम जुड़ते हैं।</p>
 </section>
@@ -123,8 +123,8 @@
 
 <section id="contact">
     <h2>Contact Us</h2>
-    <p>Email: contact@xpluse.com</p>
-    <p>Phone: +91-1234567890</p>
+    <p>Email: contact@xlpluse.com</p>
+    <p>Phone: +91-9451822158</p>
 </section>
 
 <footer>

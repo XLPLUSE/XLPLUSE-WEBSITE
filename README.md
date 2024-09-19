@@ -149,15 +149,6 @@ Key Features:
 
 
 
-How to Use:
-
-1. Copy this code into an HTML file (e.g., index.html).
-
-
-2. Upload it to a web hosting platform or your preferred web server.
-
-
-3. Customize further if needed.
 
 
 
